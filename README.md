@@ -1,8 +1,8 @@
 # User-Interface-Project-Music-Player-
 This project is primarily about a simple design of user interface for music player.
-The method for using this programming is pretty simple!\n
-(1) Download UI.jar file.\n
-(2) Exectute UI.jar file.\n
+The method for using this programming is pretty simple!
+(1) Download UI.jar file.
+(2) Exectute UI.jar file.
 (3) Click on the "Load" button on the user interface.
 (4) Choose one of the sing of text file.
 (5) After loaded, click on the "Play" button on the interface.
