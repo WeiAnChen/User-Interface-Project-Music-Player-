@@ -4,7 +4,7 @@ The method for using this programming is pretty simple!
 (1) Download UI.jar file.
 (2) Exectute UI.jar file.
 (3) Click on the "Load" button on the user interface.
-(4) Choose one of the sing of text file.
+(4) Choose one of the song of text file.
 (5) After loaded, click on the "Play" button on the interface.
 (6) You can enjoy the music
 
